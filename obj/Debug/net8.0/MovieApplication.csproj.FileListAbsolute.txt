@@ -12,3 +12,18 @@ C:\Users\nimith.shetty\Desktop\AproSCM\MovieApplication\obj\Debug\net8.0\refint\
 C:\Users\nimith.shetty\Desktop\AproSCM\MovieApplication\obj\Debug\net8.0\MovieApplication.pdb
 C:\Users\nimith.shetty\Desktop\AproSCM\MovieApplication\obj\Debug\net8.0\MovieApplication.genruntimeconfig.cache
 C:\Users\nimith.shetty\Desktop\AproSCM\MovieApplication\obj\Debug\net8.0\ref\MovieApplication.dll
+D:\C# Training github\MovieApplication-Level-1-\bin\Debug\net8.0\MovieApplication.exe
+D:\C# Training github\MovieApplication-Level-1-\bin\Debug\net8.0\MovieApplication.deps.json
+D:\C# Training github\MovieApplication-Level-1-\bin\Debug\net8.0\MovieApplication.runtimeconfig.json
+D:\C# Training github\MovieApplication-Level-1-\bin\Debug\net8.0\MovieApplication.dll
+D:\C# Training github\MovieApplication-Level-1-\bin\Debug\net8.0\MovieApplication.pdb
+D:\C# Training github\MovieApplication-Level-1-\obj\Debug\net8.0\MovieApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Training github\MovieApplication-Level-1-\obj\Debug\net8.0\MovieApplication.AssemblyInfoInputs.cache
+D:\C# Training github\MovieApplication-Level-1-\obj\Debug\net8.0\MovieApplication.AssemblyInfo.cs
+D:\C# Training github\MovieApplication-Level-1-\obj\Debug\net8.0\MovieApplication.csproj.CoreCompileInputs.cache
+D:\C# Training github\MovieApplication-Level-1-\obj\Debug\net8.0\MovieApplication.sourcelink.json
+D:\C# Training github\MovieApplication-Level-1-\obj\Debug\net8.0\MovieApplication.dll
+D:\C# Training github\MovieApplication-Level-1-\obj\Debug\net8.0\refint\MovieApplication.dll
+D:\C# Training github\MovieApplication-Level-1-\obj\Debug\net8.0\MovieApplication.pdb
+D:\C# Training github\MovieApplication-Level-1-\obj\Debug\net8.0\MovieApplication.genruntimeconfig.cache
+D:\C# Training github\MovieApplication-Level-1-\obj\Debug\net8.0\ref\MovieApplication.dll

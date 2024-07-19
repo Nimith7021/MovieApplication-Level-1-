@@ -14,12 +14,12 @@ namespace MovieApplication
         {
             while (true)
             {
-                Console.WriteLine("\nWelcome to the Movie Application\n" +
+                Console.WriteLine("\nWelcome to the Movie Store Developed by :Nimith\n" +
                     "What do you wish to do ?\n" +
                     "1 . Add new Movie \n" +
                     "2 . Display All Movies \n" +
                     "3 . Find Movie By Id \n" +
-                    "4 . Remove Movie by Name \n" +
+                    "4 . Remove Movie by Id \n" +
                     "5 . Clear All Movies \n" +
                     "6 . Exit");
 
@@ -53,7 +53,7 @@ namespace MovieApplication
                     break;
 
                 case 4:
-                    RemoveMovieByName();
+                    RemoveMovieById();
                     break;
 
                 case 5:
@@ -110,18 +110,11 @@ namespace MovieApplication
             return findMovie;
         }
 
-        static Movie FindMovieByName()
-        {
-            Movie findMovie = null;
-            Console.WriteLine("Enter your Movie Name:");
-            string name = Console.ReadLine();
-            findMovie = movies.Where(item => item.Name == name).FirstOrDefault();
-            return findMovie;
-        }
+        
 
-        static void RemoveMovieByName()
+        static void RemoveMovieById()
         {
-            Movie findMovie = FindMovieByName();
+            Movie findMovie = FindMovieById();
             if(findMovie==null)
                 Console.WriteLine("Movie does not exist");
             else
