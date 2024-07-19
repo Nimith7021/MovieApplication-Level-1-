@@ -1,0 +1,14 @@
+C:\Users\nimith.shetty\Desktop\AproSCM\MovieApplication\bin\Debug\net8.0\MovieApplication.exe
+C:\Users\nimith.shetty\Desktop\AproSCM\MovieApplication\bin\Debug\net8.0\MovieApplication.deps.json
+C:\Users\nimith.shetty\Desktop\AproSCM\MovieApplication\bin\Debug\net8.0\MovieApplication.runtimeconfig.json
+C:\Users\nimith.shetty\Desktop\AproSCM\MovieApplication\bin\Debug\net8.0\MovieApplication.dll
+C:\Users\nimith.shetty\Desktop\AproSCM\MovieApplication\bin\Debug\net8.0\MovieApplication.pdb
+C:\Users\nimith.shetty\Desktop\AproSCM\MovieApplication\obj\Debug\net8.0\MovieApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nimith.shetty\Desktop\AproSCM\MovieApplication\obj\Debug\net8.0\MovieApplication.AssemblyInfoInputs.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\MovieApplication\obj\Debug\net8.0\MovieApplication.AssemblyInfo.cs
+C:\Users\nimith.shetty\Desktop\AproSCM\MovieApplication\obj\Debug\net8.0\MovieApplication.csproj.CoreCompileInputs.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\MovieApplication\obj\Debug\net8.0\MovieApplication.dll
+C:\Users\nimith.shetty\Desktop\AproSCM\MovieApplication\obj\Debug\net8.0\refint\MovieApplication.dll
+C:\Users\nimith.shetty\Desktop\AproSCM\MovieApplication\obj\Debug\net8.0\MovieApplication.pdb
+C:\Users\nimith.shetty\Desktop\AproSCM\MovieApplication\obj\Debug\net8.0\MovieApplication.genruntimeconfig.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\MovieApplication\obj\Debug\net8.0\ref\MovieApplication.dll
